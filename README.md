@@ -57,7 +57,9 @@ This project was completed by a **two-member student team** with divided impleme
 
 ## Project Report
 
-The full academic report documents the methodology, visualizations, results, conclusions, and limitations. A privacy-reviewed team-report PDF can be linked here once uploaded to this repository.
+The full academic report documents the project's methodology, data preprocessing techniques, visualizations, analytical findings, and conclusions.
+
+📄 **[View Full Project Report](Financial_Fraud_Detection_Team_Report_Corrected.pdf)**
 
 ## Academic Context
 
