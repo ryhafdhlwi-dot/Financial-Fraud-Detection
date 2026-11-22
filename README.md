@@ -53,7 +53,6 @@ This project was completed by a **two-member student team** with divided impleme
 3. Run the notebook cells in order. The notebook includes a `pip install category_encoders` command for its additional dependency.
 4. If the Colab runtime resets, upload the CSV files again before rerunning.
 
-**Note:** The repository notebook currently has a filename ending in `(1).ipynb`; open that file unless it is renamed later.
 
 ## Project Report
 
