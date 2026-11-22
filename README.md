@@ -42,7 +42,6 @@ This project was completed by a **two-member student team** with divided impleme
 - Data loading and inspection
 - Data quality assessment
 - Data cleaning and exploratory data analysis (EDA)
-- Outlier detection and handling
 - Writing, organizing, and finalizing the full technical report, including findings and conclusions
 
 **Teammate's contributions:** The remaining implementation sections, including later transformation and feature-related tasks.
