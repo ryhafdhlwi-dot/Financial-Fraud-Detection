@@ -44,7 +44,7 @@ This project was completed by a **two-member student team** with divided impleme
 - Data cleaning and exploratory data analysis (EDA)
 - Writing, organizing, and finalizing the full technical report, including findings and conclusions
 
-**Teammate's contributions:** The remaining implementation sections, including later transformation and feature-related tasks.
+**Teammate's contributions:** The remaining implementation sections, including outlier detection and handling, data transformation, and feature-related tasks.
 
 ## How to Run
 
